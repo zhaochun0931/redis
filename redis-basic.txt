@@ -1,0 +1,4 @@
+# install
+
+# test your Redis installation
+redis-server
