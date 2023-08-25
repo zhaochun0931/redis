@@ -2,3 +2,7 @@
 
 # test your Redis installation
 redis-server
+
+
+# connec to Redis, Once Redis is running, you can test it by running redis-cli:
+redis-cli
