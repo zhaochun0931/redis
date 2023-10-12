@@ -20,4 +20,6 @@ PONG
 config get *
 config get log*
 
+info
+
 
